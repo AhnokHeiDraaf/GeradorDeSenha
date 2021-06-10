@@ -10,4 +10,5 @@ Depois, digite o tipo da senha, que é dividida em 3 atualmente, são elas: <br>
 
 Lembrando que a senha gerada é <strong>Aleatória</strong>, ou seja, caso gere novamente com as mesmas instruções, irá ser uma senha diferente da anterior, então anote.
 <br>
+
 ありがとうございます。 (/￣ー￣)/
